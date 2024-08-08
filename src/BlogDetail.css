@@ -1,0 +1,38 @@
+.blog-detail-container {
+    max-width: 900px;
+    margin: 60px auto; 
+    padding: 30px;
+    background-color: #ffffff;
+    color: #333;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  
+  .blog-detail-title {
+    font-size: 2.8em;
+    margin: 0 0 30px; 
+    color: #2c3e50;
+    font-weight: bold;
+    text-align: center;
+  }
+  
+  .blog-detail-content {
+    font-size: 1.15em;
+    color: #555;
+    line-height: 1.75;
+    text-align: justify;
+    padding: 0 10px;
+    margin-bottom: 30px; 
+  }
+  
+  .blog-detail-content p {
+    margin-bottom: 20px;
+  }
+  
+  body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+  }
+  
